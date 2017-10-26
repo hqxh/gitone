@@ -1,4 +1,4 @@
 #include<stdio.h>
 void main(){
-	printf("123456\n");
+	printf("789\n");
 }
